@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Chirag
+### I am a Data Science and Analytics aficionado, who wants to get into the field of Sports or Business Analytics as they are of my interest
 
 <!--
 **ChiragBengani/ChiragBengani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
